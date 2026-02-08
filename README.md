@@ -1,9 +1,11 @@
 # 🤖 TeckAgents
 
+![TeckAgents Overview](teckagents.jpg)
+
 **TeckAgents** is an AI agent development repository by **WrighTeck**, focused on designing, building, and documenting **goal-driven AI agents** for technology education and workflow automation.
 
 Unlike traditional AI assistants that respond to individual prompts, TeckAgents explores **autonomous and semi-autonomous agents** that can plan tasks, execute multi-step workflows, use tools, maintain state, and evaluate outcomes.
-![TeckAgents Overview](images/teckagents.jpg)
+
 ---
 
 ## 🎯 Project Goals
